@@ -1,30 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: CKDelta
+    i18n: ckdelta
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Building various scalable ML models using telco, utility and GIS data mainly using Python and Spark.
+    i18n: ckdelta_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Mar. 2020
+    i18n: ckdelta_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Data Scientist
+    i18n: ckdelta_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Accenture
+    i18n: accenture
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: As a consultant in Accenture, I worked in various banking and utility clients building ML modeling and data processing systems.
+    i18n: accenture_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Nov. 2017
+    i18n: accenture_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Data Science Consultant
+    i18n: accenture_job
+  icon: fa-plus-square
+
+- name:
+    detail: Freelance
+    i18n: freelance
+  desc:
+    detail: As a freelance Data Scientist, I worked with clients in EMEA region building forecasting models and writing scalable ML code in R and Python.
+    i18n: freelance_desc
+  date:
+    detail: Dec. 2016
+    i18n: freelance_date
+  job:
+    detail: Data Scientist
+    i18n: freelance_job
+  icon: fa-plus-square
+
+- name:
+    detail: Koton
+    i18n: koton
+  desc:
+    detail: As my first full-time Data Science job, I had the chance to work on markdown, demand estimation and replenishment models.
+    i18n: koton_desc
+  date:
+    detail: Jul. 2015
+    i18n: koton_date
+  job:
+    detail: Retail Analytics Specialist
+    i18n: koton_job
+  icon: fa-plus-square
+
+- name:
+    detail: Technical Planning Engineer
+    i18n: siemens
+  desc:
+    detail: As a planning engineer, I was in charge of any improvements done to a production area. Which involved a lot of data collection by hand and analysis. Those activities eventually led to my interest in Data Science.
+    i18n: siemens_desc
+  date:
+    detail: Oct. 2010
+    i18n: siemens_date
+  job:
+    detail: Siemens
+    i18n: siemens_job
   icon: fa-plus-square
