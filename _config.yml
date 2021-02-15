@@ -13,7 +13,7 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 author:  # change following line to your infomation.
   name: Alihan Zihna  # Be used at blog posts' author.
   first_name: # Be used at index page about me section.
-  last_name:  # Be used at index page about me section.
+  last_name: # Be used at index page about me section.
   avatar: /static/assets/img/landing/Png_WithBg-10.png  # upload your avatar at directory and edit it.
   github_username: azihna  # Leave blank if you don't have now
   linkedin_id: alihanz # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-git
     - name: icon-line-graph
-      desc: Working on ML Systems at CKDelta and on Kaggle/Open-Source systems when free.  # Describe yourself.
+  desc: Data Scientist with experience in building and monitoring ML systems and data pipelines. Worships Open-Source, practices Kaggle and dances Lindy Hop whenever possible. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

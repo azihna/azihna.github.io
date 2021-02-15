@@ -4,7 +4,7 @@
     detail: CKDelta
     i18n: ckdelta
   desc:
-    detail: Building various scalable ML models using telco, utility and GIS data mainly using Python and Spark.
+    detail: Building various scalable ML models and data pipelines using telco, utility and GIS data mainly using Python and Spark.
     i18n: ckdelta_desc
   date:
     detail: Mar. 2020
@@ -19,7 +19,7 @@
     detail: Accenture
     i18n: accenture
   desc:
-    detail: As a consultant in Accenture, I worked in various banking and utility clients building ML modeling and data processing systems.
+    detail: Worked in banking and utility sectors, building ML modeling and data processing systems.
     i18n: accenture_desc
   date:
     detail: Nov. 2017
@@ -33,7 +33,7 @@
     detail: Freelance
     i18n: freelance
   desc:
-    detail: As a freelance Data Scientist, I worked with clients in EMEA region building forecasting models and writing scalable ML code in R and Python.
+    detail: Worked with clients in EMEA region building forecasting models and writing scalable ML code in R and Python.
     i18n: freelance_desc
   date:
     detail: Dec. 2016
@@ -47,7 +47,7 @@
     detail: Koton
     i18n: koton
   desc:
-    detail: As my first full-time Data Science job, I had the chance to work on markdown, demand estimation and replenishment models.
+    detail: Worked on markdown optimization, demand estimation and replenishment models in a fast-fashion retail context in my first full-time Data Science job.
     i18n: koton_desc
   date:
     detail: Jul. 2015
@@ -61,10 +61,10 @@
     detail: Technical Planning Engineer
     i18n: siemens
   desc:
-    detail: As a planning engineer, I was in charge of any improvements done to a production area. Which involved a lot of data collection by hand and analysis. Those activities eventually led to my interest in Data Science.
+    detail: Worked on data collection and analysis for assessing improvement opportunities in factory production lines. Acquired statistical grounding which helped me to transition to Data Science later in my career.
     i18n: siemens_desc
   date:
-    detail: Oct. 2010
+    detail: Feb. 2012
     i18n: siemens_date
   job:
     detail: Siemens

@@ -1,13 +1,13 @@
 # links section data
-# - last_name: Name 1
-#   first_name:
-#   desc: CEO
-#   website: https://www.google.com
-#   email: ceo@google.com
+- last_name: 
+  first_name: Alex Papa
+  desc: The amazing designer of the site's logo.
+  website: https://alexpap27.myportfolio.com/
+  email: alex.pap27@hotmail.com
 
 - last_name: Donate
   first_name: Jalpc
-  desc: Support Jalpc the amazing template this website is made from
+  desc: Support Jalpc the template this website is made from
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
