@@ -8,7 +8,6 @@ categories: [data,python]
 tags: [python,decorators,classes]
 icon: icon-python
 ---
-# Using @property in Data Science Applications
 
 `@property` is a decorator in Python that is not mentioned in learning materials. I was surprised when I came across it and it took me a while to understand how and when to use it. 
 
